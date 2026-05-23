@@ -1383,7 +1383,7 @@ The EDA established that 36.7% of Q1 trips generated waste, with a severely righ
 # Document Access
 
 ::: {.callout-note appearance="minimal"}
-**Published report:** [RPubs — Reducing Fuel Misuse and Improving Profitability per Trip](https://rpubs.com/anthoniaokocha/1432977)
+**Published report:** [RPubs — Reducing Fuel Misuse and Improving Profitability per Trip](https://rpubs.com/anthoniaokocha/1434925)
 
 **Source code & data:** [GitHub — anthoniaokocha/Reducing-Fuel-misuse-and-Improving-Profitability-per-Trip](https://github.com/anthoniaokocha/Reducing-Fuel-misuse-and-Improving-Profitability-per-Trip)
 :::
